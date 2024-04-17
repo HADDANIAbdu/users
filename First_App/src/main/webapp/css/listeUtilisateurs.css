@@ -1,0 +1,31 @@
+body{
+	font-family: cursive;
+}
+.navbar img{
+	margin-top: -10px;
+}
+b{
+	 color:rgb(176,59,185);
+	 margin-left: 8px;
+}
+.container{
+	width: 70%;
+	margin-top: 10%;
+	margin-left: 20%;
+}
+.container thead tr th{
+	padding-right: 25px;
+	padding-left: 25px;
+	background-color: lightsalmon;
+}
+.container tbody tr th{
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.container tbody tr td{
+	padding-right: 25px;
+	padding-left: 25px;
+}
+.container img{
+	margin-left: 20px;
+}
